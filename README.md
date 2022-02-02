@@ -1,2 +1,2 @@
-# M1_ProjectGoal_-type-
+# M1_ProjectGoal_-Type-
 Mini project
