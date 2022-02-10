@@ -1,0 +1,26 @@
+#include <stdio.h> 
+#include <stdlib.h>
+#include <conio.h>
+#include <windows.h> 
+#include <string.h>  
+case '1':  
+            system("cls");
+            fseek(fp,0,SEEK_END); 
+             
+		    another = 'y';
+            while(another == 'y')  
+            {
+                printf("\nEnter name: ");
+                scanf("%s",e.name);
+                printf("\nEnter age: ");
+                scanf("%d", &e.age);
+                printf("\nEnter basic salary: ");
+                scanf("%f", &e.bs);
+
+                fwrite(&e,recsize,1,fp); 
+
+                printf("\nAdd another record(yes/no) ");
+                fflush(stdin);
+                another = getche();
+            }
+            break;
