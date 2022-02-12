@@ -5,13 +5,14 @@
 #include <string.h>  
 
 COORD coord = {0,0}; 
-
 void gotoxy(int x,int y)
 {
     coord.X = x;
     coord.Y = y;
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),coord);
 }
+
+// main function
 
 int main()
 {
@@ -29,8 +30,6 @@ int main()
     char empname[40]; 
 
     long int recsize; 
-
-   
     fp = fopen("EMP.DAT","rb+");
     if(fp == NULL)
     {
@@ -41,9 +40,8 @@ int main()
             exit(1);
         }
     }
-
     recsize = sizeof(e);
-
+	
     while(1)
     {
         system("cls"); 
@@ -61,13 +59,17 @@ int main()
         printf("Your Choice: "); 
         fflush(stdin); 
         choice  = getche(); 
+	 
+	    //switch function
+	    
         switch(choice)
         {
- case '1':  
+	     // add the record
+			
+         case '1':  
             system("cls");
             fseek(fp,0,SEEK_END); 
-             
-		    another = 'y';
+              another = 'y';
             while(another == 'y')  
             {
                 printf("\nEnter name: ");
@@ -78,13 +80,15 @@ int main()
                 scanf("%f", &e.bs);
 
                 fwrite(&e,recsize,1,fp); 
-
                 printf("\nAdd another record(yes/no) ");
                 fflush(stdin);
                 another = getche();
             }
             break;
+			
  case '2':
+	      //list the record 
+			
              system("cls");
             rewind(fp); 
             while(fread(&e,recsize,1,fp)==1)  
@@ -95,6 +99,8 @@ int main()
             break;
 
   case '3':  
+		//modify the record
+			
             system("cls");
             another = 'y';
             while(another == 'y')
@@ -118,7 +124,10 @@ int main()
                 another = getche();
             }
             break;
+			
  case '4':
+			//delete the record
+			
             system("cls");
             another = 'y';
             while(another == 'y')
@@ -131,7 +140,7 @@ int main()
                 {
                     if(strcmp(e.name,empname) != 0)  
                     {
-                        fwrite(&e,recsize,1,ft); 
+                       fwrite(&e,recsize,1,ft); 
                     }
                 }
                 fclose(fp);
@@ -144,6 +153,7 @@ int main()
                 another = getche();
             }
             break;
+			
  case '5':
             fclose(fp);  
             exit(0); 
