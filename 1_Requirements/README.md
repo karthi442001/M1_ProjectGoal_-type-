@@ -33,7 +33,7 @@ In this project, you can manage employee records .This Application should allow 
 
      1. Quick access to the employee records.
     
-    2. Safeguard Important Information
+     2. Safeguard Important Information
      
      3. Save Time & Efforts
 
