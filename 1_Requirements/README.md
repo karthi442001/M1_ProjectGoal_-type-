@@ -23,24 +23,24 @@ In this project, you can manage employee records .This Application should allow 
 
   ## Swot Analysis:
   
-  ### Strength
+  ### Strength:
 
      1. Quick access to the employee records.
      2. Safeguard Important Information
      3. Save Time & Efforts
 
- ### Weakness
-
+ ### Weakness:
+     
      1. Leakage of information 
      2. not very much accurate
      3. Danger of lossing files
 
-### Opportunities
+### Opportunities:
 
      1.We can store the employee records easily
      2.The organiztion access the information at any time.
 
-### Threats
+### Threats:
 
      1.There is possibilites of missing and hack the employee information.
 
