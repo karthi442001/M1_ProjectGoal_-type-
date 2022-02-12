@@ -29,7 +29,7 @@
 
   ## Swot Analysis:-
   
-  ### Strength:-
+  ### 'Strength:'
 
       Quick access to the employee records.
     
@@ -39,7 +39,7 @@
       
       Easy to Encrypt Data
 
-  ### Weakness:-
+  ### 'Weakness:'
      
       Leakage of information 
     
