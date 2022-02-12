@@ -47,13 +47,13 @@
      
       Danger of lossing files
 
-  ### Opportunities:-
+  ### 'Opportunities:'
 
      We can store the employee records easily
     
      The organiztion access the information at any time.
 
-  ### Threats:-
+  ### 'Threats:'
 
      There is possibilites of missing and hack the employee information.
 
