@@ -5,7 +5,6 @@
 #include <string.h>  
 
 COORD coord = {0,0}; 
-
 void gotoxy(int x,int y)
 {
     coord.X = x;
@@ -29,8 +28,6 @@ int main()
     char empname[40]; 
 
     long int recsize; 
-
-   
     fp = fopen("EMP.DAT","rb+");
     if(fp == NULL)
     {
@@ -41,9 +38,8 @@ int main()
             exit(1);
         }
     }
-
     recsize = sizeof(e);
-
+	
     while(1)
     {
         system("cls"); 
@@ -78,7 +74,6 @@ int main()
                 scanf("%f", &e.bs);
 
                 fwrite(&e,recsize,1,fp); 
-
                 printf("\nAdd another record(yes/no) ");
                 fflush(stdin);
                 another = getche();
