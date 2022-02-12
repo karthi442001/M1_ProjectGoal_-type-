@@ -8,4 +8,5 @@ In this project, you can manage employee records .This Application should allow 
  The requirements of employee record system is the organization have to enter the details of employee name,age,basic salary. 
  
  ## Codacy Badge
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/596f18a257d94dc2805357ab3c95e6c8)](https://app.codacy.com/gh/karthi442001/M1_ProjectGoal_-type-?utm_source=github.com&utm_medium=referral&utm_content=karthi442001/M1_ProjectGoal_-type-&utm_campaign=Badge_Grade_Settings)
  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b3c173f34b0041478d166f22c4cfa8bc)](https://www.codacy.com/gh/karthi442001/M1_ProjectGoal_-type-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=karthi442001/M1_ProjectGoal_-type-&amp;utm_campaign=Badge_Grade)
