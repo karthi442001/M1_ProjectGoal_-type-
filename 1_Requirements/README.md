@@ -29,7 +29,7 @@ In this project, you can manage employee records .This Application should allow 
 
   ## Swot Analysis:-
   
-  ###  Strength:
+  ### Strength:
 
       Quick access to the employee records.
     
