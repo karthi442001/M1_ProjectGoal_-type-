@@ -1,13 +1,13 @@
 # Employee Record System
 
-## Description:
+## Description:-
 
 In this project, you can manage employee records .This Application should allow user to  Add list,modify,delete,and exit the record.This application  built to handle the records of employees of any company.
 
-## Requirements:
+## Requirements:-
  The requirements of employee record system is the organization have to enter the details of employee name,age,basic salary. 
 
-## High Level Requirements:
+## High Level Requirements:-
 
 1. The Application should allow user to enter information.
 2. The user can add the member’s details by entering his/her name, age, and salary.After entering the name,age and salary details the record will be saved . 
@@ -17,11 +17,11 @@ In this project, you can manage employee records .This Application should allow 
 6. The Application should allow user to exit from application.
 7. Easy to operate and understandable.
 
-## Low Level Requirements:
+## Low Level Requirements:-
  
       User need a system
 
-  ## Swot Analysis:
+  ## Swot Analysis:-
   
   ### Strength:
 
