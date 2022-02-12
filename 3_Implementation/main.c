@@ -59,6 +59,7 @@ int main()
         choice  = getche(); 
         switch(choice)
         {
+			
  case '1':  
             system("cls");
             fseek(fp,0,SEEK_END); 
@@ -79,6 +80,7 @@ int main()
                 another = getche();
             }
             break;
+			
  case '2':
              system("cls");
             rewind(fp); 
@@ -113,6 +115,7 @@ int main()
                 another = getche();
             }
             break;
+			
  case '4':
             system("cls");
             another = 'y';
@@ -139,6 +142,7 @@ int main()
                 another = getche();
             }
             break;
+			
  case '5':
             fclose(fp);  
             exit(0); 
