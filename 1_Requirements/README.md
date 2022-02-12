@@ -29,7 +29,7 @@
 
   ## Swot Analysis:-
   
-  ### Strength:
+  ### Strength:-
 
       Quick access to the employee records.
     
@@ -39,7 +39,7 @@
       
       Easy to Encrypt Data
 
-  ### Weakness:
+  ### Weakness:-
      
       Leakage of information 
     
@@ -47,13 +47,13 @@
      
       Danger of lossing files
 
-  ### Opportunities:
+  ### Opportunities:-
 
      We can store the employee records easily
     
      The organiztion access the information at any time.
 
-  ### Threats:
+  ### Threats:-
 
      There is possibilites of missing and hack the employee information.
 
