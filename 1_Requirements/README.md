@@ -2,10 +2,10 @@
 
 ## Description:-
 
-In this project, you can manage employee records .This Application should allow user to  Add list,modify,delete,and exit the record.This application  built to handle the records of employees of any company.
+  In this project, you can manage employee records .This Application should allow user to  Add list,modify,delete,and exit the record.This application  built to handle the records of employees of any company.
 
 ## Requirements:-
- The requirements of employee record system is the organization have to enter the details of employee name,age,basic salary. 
+  The requirements of employee record system is the organization have to enter the details of employee name,age,basic salary. 
 
 ## High Level Requirements:-
 
@@ -36,6 +36,8 @@ In this project, you can manage employee records .This Application should allow 
       Safeguard Important Information
      
       Save Time & Efforts
+      
+      Easy to Encrypt Data
 
   ### Weakness:
      
