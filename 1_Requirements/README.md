@@ -7,7 +7,7 @@
 ## Requirements:-
   The requirements of employee record system is the organization have to enter the details of employee name,age,basic salary. 
   
-  This repository consists of Java Program for Employee Management System. In this repository I have created a TUI program for Employee Management System which consists of 4 different operation.
+  This repository consists of Java Program for Employee Management System. In this repository I have created a program for Employee Management System which consists of 4 different operation.
 (1) Add Record
 (2) List Record
 (3) Modify Record
