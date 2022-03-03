@@ -10,6 +10,10 @@ In this project, you can manage employee records .This Application should allow 
  ## Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7fc1a0e9fe9c4e5db69bf745bc0308d0)](https://www.codacy.com/gh/karthi442001/M1_ProjectGoal_-type-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=karthi442001/M1_ProjectGoal_-type-&amp;utm_campaign=Badge_Grade)
 
+ ## Codiga Badge
+![image](https://user-images.githubusercontent.com/59722028/156516151-eadaf244-cbf3-4bb4-b8e8-08f7a163e215.png)
+
+
 
 # Folder Structure:-
 
