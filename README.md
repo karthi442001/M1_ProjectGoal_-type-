@@ -12,6 +12,8 @@ In this project, you can manage employee records .This Application should allow 
 
  ## Codiga Badge
 ![image](https://user-images.githubusercontent.com/59722028/156516151-eadaf244-cbf3-4bb4-b8e8-08f7a163e215.png)
+![image](https://user-images.githubusercontent.com/59722028/156516316-00eb1874-c11b-42f5-8151-ad7d804fcf9c.png)
+
 
 
 
